@@ -9,7 +9,7 @@ namespace RebasingDemo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("First Master code commit. Second Master Code Commit.");
+            Console.WriteLine("First Master code commit. Second Master Code Commit. Third Master Code Commit (After deviation from NewBranch).");
         }
     }
 }
