@@ -9,6 +9,7 @@ namespace RebasingDemo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("First Master code commit.");
         }
     }
 }
